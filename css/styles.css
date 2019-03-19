@@ -2,3 +2,6 @@ img{
   float:left;
   padding-left: 8px;
 }
+body {
+   background-color: inherit;
+}
